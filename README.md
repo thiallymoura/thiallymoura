@@ -1,6 +1,6 @@
 ## Heeeello World! 🌎
 
-🌱 **Domínio TypeScript, React e Node.js, construindo soluções completas e eficientes em projetos reais.**  
+🌱 **Domínio em TypeScript, React e Node.js, construindo soluções completas e eficientes em projetos reais.**  
 👯 **Colaborando em projetos Full Stack**  
 🚀 **Interessada em novos desafios**  
 🎨 **Arquiteta apaixonada por tecnologia**  
