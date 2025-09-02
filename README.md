@@ -1,15 +1,11 @@
 ## Heeeello World! 🌎
 
-🔭 **Atualmente trabalhando na minha transição para a área de tecnologia!**  
-🌱 **Estudando JavaScript, TypeScript, React e Node.js**  
-👯 **Buscando colaborar em projetos Front-End e Full Stack**  
+🌱 **Domínio TypeScript, React e Node.js, construindo soluções completas e eficientes em projetos reais.**  
+👯 **Colaborando em projetos Full Stack**  
 🚀 **Interessada em novos desafios**  
 🎨 **Arquiteta apaixonada por tecnologia**  
 
-Atualmente estou me especializando em **JavaScript, TypeScript, React e Node.js**.<br>
 Tenho experiência em arquitetura e estou aplicando minha criatividade e pensamento analítico para desenvolver soluções eficientes na área de tecnologia.  
-
-📌 **Buscando oportunidades para atuar como desenvolvedora!**  
 
 💬 **Sinta-se à vontade para entrar em contato.**  
 📧 [**Email**](mailto:thiallymoura@hotmail.com)  🔗[**LinkedIn**](https://www.linkedin.com/in/thiallymoura/) 
